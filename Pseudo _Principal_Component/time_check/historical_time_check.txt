@@ -1,0 +1,469 @@
+GISS
+Model: ACCESS-ESM1-5,   Number of Ensembles: 40
+psl_mon_historical_ACCESS-ESM1-5_r10i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r11i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r12i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r13i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r14i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r15i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r16i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r17i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r18i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r19i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r1i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r20i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r21i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r22i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r23i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r24i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r25i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r26i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r27i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r28i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r29i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r2i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r30i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r31i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r32i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r33i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r34i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r35i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r36i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r37i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r38i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r39i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r3i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r40i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r4i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r5i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r6i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r7i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r8i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_ACCESS-ESM1-5_r9i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 40
+
+Model: CanESM5,   Number of Ensembles: 65
+psl_mon_historical_CanESM5_r10i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r10i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r11i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r11i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r12i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r12i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r13i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r13i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r14i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r14i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r15i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r15i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r16i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r16i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r17i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r17i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r18i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r18i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r19i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r19i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r1i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r1i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r20i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r20i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r21i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r21i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r22i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r22i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r23i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r23i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r24i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r24i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r25i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r25i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r26i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r27i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r28i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r29i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r2i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r2i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r30i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r31i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r32i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r33i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r34i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r35i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r36i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r37i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r38i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r39i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r3i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r3i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r40i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r4i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r4i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r5i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r5i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r6i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r6i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r7i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r7i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r8i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r8i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r9i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CanESM5_r9i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 65
+
+Model: CMCC-CM2-SR5,   Number of Ensembles: 11
+psl_mon_historical_CMCC-CM2-SR5_r10i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r11i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r1i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r2i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r3i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r4i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r5i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r6i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r7i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r8i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_CMCC-CM2-SR5_r9i1p2f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 11
+
+Model: FGOALS-g3,   Number of Ensembles: 6
+psl_mon_historical_FGOALS-g3_r1i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_FGOALS-g3_r2i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_FGOALS-g3_r3i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_FGOALS-g3_r4i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_FGOALS-g3_r5i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_FGOALS-g3_r6i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 6
+
+Model: GISS-E2-1-G,   Number of Ensembles: 89
+psl_mon_historical_GISS-E2-1-G_r101i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r102i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r10i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r10i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r10i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r10i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r11i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r1i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r1i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r1i1p1f3_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r1i1p1f5_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1980-01-16 12:00:00 to 2014-12-16 12:00:00, 420 time steps
+psl_mon_historical_GISS-E2-1-G_r1i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r1i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r201i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r201i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r201i1p1f5_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1980-01-16 12:00:00 to 2021-12-16 12:00:00, 504 time steps
+psl_mon_historical_GISS-E2-1-G_r201i1p1f6_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r202i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r202i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r202i1p1f5_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1980-01-16 12:00:00 to 2021-12-16 12:00:00, 504 time steps
+psl_mon_historical_GISS-E2-1-G_r202i1p1f6_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r203i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r203i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r204i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r204i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r205i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r206i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r207i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r208i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r208i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r209i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r209i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r210i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1950-01-16 12:00:00 to 2021-12-16 12:00:00, 864 time steps
+psl_mon_historical_GISS-E2-1-G_r210i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2021-12-16 12:00:00, 384 time steps
+psl_mon_historical_GISS-E2-1-G_r2i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r2i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r2i1p1f3_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r2i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r2i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r301i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r301i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r302i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r302i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r303i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r303i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r304i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r304i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r305i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r305i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r306i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r306i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r307i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r307i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r308i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r308i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r309i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r309i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r310i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r310i1p1f4_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1990-01-16 12:00:00 to 2014-12-16 12:00:00, 300 time steps
+psl_mon_historical_GISS-E2-1-G_r3i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r3i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r3i1p1f3_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r3i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r3i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r4i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r4i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r4i1p1f3_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r4i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r4i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r5i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r5i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r5i1p1f3_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r5i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r6i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r6i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r6i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r6i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r7i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r7i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r7i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1380 time steps
+psl_mon_historical_GISS-E2-1-G_r7i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r8i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r8i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r8i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r8i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r9i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r9i1p1f2_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r9i1p3f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_GISS-E2-1-G_r9i1p5f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 43, Ensembles left: 46
+
+Model: HadGEM3-GC31-LL,   Number of Ensembles: 50
+psl_mon_historical_HadGEM3-GC31-LL_r11i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r12i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r13i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r14i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r15i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r16i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r17i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r18i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r19i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r20i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r21i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r22i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r23i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r24i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r25i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r26i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r27i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r28i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r29i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r30i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r31i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r32i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r33i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r34i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r35i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r36i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r37i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r38i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r39i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r40i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r41i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r42i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r43i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r44i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r45i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r46i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r47i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r48i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r49i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r50i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r51i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r52i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r53i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r54i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r55i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r56i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r57i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r58i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r59i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+psl_mon_historical_HadGEM3-GC31-LL_r60i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 50
+
+Model: IPSL-CM6A-LR,   Number of Ensembles: 33
+psl_mon_historical_IPSL-CM6A-LR_r10i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r11i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r12i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r13i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r14i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r15i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r16i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r17i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r18i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r19i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r1i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r20i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r21i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r22i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r23i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r24i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r25i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r26i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r27i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r28i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r29i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r2i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r30i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r31i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r32i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r33i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r3i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r4i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r5i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r6i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r7i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r8i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_IPSL-CM6A-LR_r9i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 33
+
+Model: MIROC6,   Number of Ensembles: 50
+psl_mon_historical_MIROC6_r10i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r11i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r12i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r13i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r14i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r15i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r16i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r17i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r18i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r19i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r1i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r20i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r21i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r22i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r23i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r24i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r25i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r26i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r27i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r28i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r29i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r2i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r30i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r31i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r32i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r33i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r34i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r35i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r36i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r37i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r38i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r39i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r3i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r40i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r41i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r42i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r43i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r44i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r45i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r46i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r47i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r48i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r49i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r4i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r50i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r5i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r6i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r7i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r8i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MIROC6_r9i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 50
+
+Model: MPI-ESM1-2-LR,   Number of Ensembles: 51
+psl_mon_historical_MPI-ESM1-2-LR_r10i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r11i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r12i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r13i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r14i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r15i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r16i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r17i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r18i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r19i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r1i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r1i2000p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r20i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r21i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r22i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r23i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r24i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r25i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r26i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r27i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r28i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r29i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r2i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r30i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r31i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r32i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r33i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r34i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r35i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r36i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r37i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r38i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r39i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r3i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r40i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r41i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r42i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r43i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r44i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r45i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r46i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r47i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r48i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r49i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r4i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r50i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r5i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r6i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r7i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r8i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+psl_mon_historical_MPI-ESM1-2-LR_r9i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2014-12-16T12:00:00.000000000, 1980 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 51
+
+Model: NorESM2-LM,   Number of Ensembles: 44
+psl_mon_historical_NorESM2-LM_r10i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r11i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r12i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r13i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r14i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r15i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r16i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r17i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r18i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r19i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r1i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_NorESM2-LM_r1i1p4f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_NorESM2-LM_r20i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r21i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r22i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r23i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r24i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r25i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r26i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r27i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r28i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r29i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r2i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_NorESM2-LM_r30i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r31i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r32i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r33i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r34i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r35i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r36i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r37i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r38i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r39i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r3i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2014-12-16 12:00:00, 1980 time steps
+psl_mon_historical_NorESM2-LM_r40i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r41i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r42i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r43i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r4i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r5i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r6i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r7i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r8i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+psl_mon_historical_NorESM2-LM_r9i1p1f1_interp.nc with calendar: <class 'cftime._cftime.DatetimeNoLeap'>, 1850-01-16 12:00:00 to 2020-12-16 12:00:00, 2052 time steps
+Number of ensembles discarded as times did not cover the period 1850-2015: 0, Ensembles left: 44

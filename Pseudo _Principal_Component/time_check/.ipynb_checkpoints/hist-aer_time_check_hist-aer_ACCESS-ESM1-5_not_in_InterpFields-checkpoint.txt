@@ -1,0 +1,10 @@
+
+Model: ACCESS-ESM1-5,   Number of Ensembles: 7
+psl_mon_hist-aer_ACCESS-ESM1-5_r10i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2020-12-16T12:00:00.000000000, 1716 time steps
+psl_mon_hist-aer_ACCESS-ESM1-5_r4i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2020-12-16T12:00:00.000000000, 2052 time steps
+psl_mon_hist-aer_ACCESS-ESM1-5_r5i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2020-12-16T12:00:00.000000000, 2052 time steps
+psl_mon_hist-aer_ACCESS-ESM1-5_r6i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2020-12-16T12:00:00.000000000, 2052 time steps
+psl_mon_hist-aer_ACCESS-ESM1-5_r7i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2020-12-16T12:00:00.000000000, 2004 time steps
+psl_mon_hist-aer_ACCESS-ESM1-5_r8i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2020-12-16T12:00:00.000000000, 2052 time steps
+psl_mon_hist-aer_ACCESS-ESM1-5_r9i1p1f1_interp.nc with calendar: <class 'numpy.datetime64'>, 1850-01-16T12:00:00.000000000 to 2020-12-16T12:00:00.000000000, 2052 time steps
+Number of ensembles discarded as times did not cover the period of at least 1850-2015: 2, Ensembles left: 5
