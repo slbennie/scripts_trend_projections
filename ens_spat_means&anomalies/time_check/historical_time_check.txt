@@ -1,0 +1,4 @@
+
+Model: HadGEM3-GC31-LL,   Number of Ensembles: 1
+psl_mon_historical_HadGEM3-GC31-LL_r5i1p1f3_interp.nc with calendar: <class 'cftime._cftime.Datetime360Day'>, 1850-01-16 00:00:00 to 2014-12-16 00:00:00, 1980 time steps
+Number of ensembles discarded as times did not cover the period of at least 1850-2015: 0, Ensembles left: 1
