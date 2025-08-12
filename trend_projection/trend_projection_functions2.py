@@ -93,7 +93,7 @@ def calculate_spatial_ensemble_mean(file_paths, output_file, variable):
     mean = ds[variable].mean(dim='ensemble')
 
     #save the ensemble mean to the a .nc file
-    #mean.to_netcdf(output_file)
+    mean.to_netcdf(output_file)
     print('saved')
 
     ds.close()
@@ -132,7 +132,7 @@ def calculate_seasonal_spatial_ensemble_mean_djf(file_path, var, seas, output_fi
 
     # average over DJF months for each year
     ds_season = ds_months_seas.groupby('year').mean(dim='time')
-    #ds_season.to_netcdf(output_file)
+    ds_season.to_netcdf(output_file)
     print('saved file')
     return ds_season
 
@@ -193,7 +193,7 @@ def calculate_linear_trend_spat_pattern(file_path, variable, output_file):
         "slope_CI_lower": ci_lower_da,
         "slope_CI_upper": ci_upper_da
     })
-    #combined_ds.to_netcdf(output_file)
+    combined_ds.to_netcdf(output_file)
 
 
 # In[11]:
@@ -211,6 +211,8 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
 
     #preprocess anomalies
     anomaly_list = [open_cropNA_unitshPA(f) for f in anomalies]
+
+    print('calculating indiv reg maps')
 
     if individual:
         #calculating the regression map for each ensemble member
@@ -272,6 +274,12 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
                 output_regression_map = output.replace('anomaly', mode+'_regression_map_'+period)
                 output_EOF = output.replace('anomaly', period+'_EOF')
 
+                regression_map.name = 'regression_'+mode+'_djf'
+                regression_map.to_netcdf(output_regression_map)
+
+                EOF_pattern.name = 'EOF_'+mode+'_djf'
+                EOF_pattern.to_netcdf(output_EOF)
+                
                 ens_files_reg.append(output_regression_map)
                 ens_files_EOF.append(output_EOF)
                 #print(output_regression_map)
@@ -294,8 +302,8 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
         output_regression_map = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_regression_map_'+period+'.nc'
         output_EOF = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_EOF_pattern_'+period+'.nc'
 
-        #mean_regression.to_netcdf(output_regression_map)
-        #mean_EOF.to_netcdf(output_EOF)
+        mean_regression.to_netcdf(output_regression_map)
+        mean_EOF.to_netcdf(output_EOF)
 
 
     else:
@@ -335,9 +343,9 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
         output_EOF = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_EOF_pattern_concat_'+period+'.nc'
 
         regression_map.name = 'regression_'+mode+'_djf'
-        #regression_map.to_netcdf(output_regression_map)
+        regression_map.to_netcdf(output_regression_map)
         EOF_pattern.name = 'EOF_'+mode+'_djf'
-        #EOF_pattern.to_netcdf(output_EOF)
+        EOF_pattern.to_netcdf(output_EOF)
 
 
 # In[9]:
@@ -346,6 +354,7 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
 #functions defined for calculating the projections
 def project_onto_regression(trend_raw, regression_map, trend_var, mode, e, m, period):
     import xarray as xr
+    import numpy as np
 
     #function which will project a trend (lat,lon) in hPa onto a spatial pattern (lat,lon) hPa to get a single NAO index value
     #will then calculate the residual (trend - mode_congruent part) and saves both the NAO congruent part and the residual
@@ -359,6 +368,7 @@ def project_onto_regression(trend_raw, regression_map, trend_var, mode, e, m, pe
         print('here')
         trend = trend_raw[trend_var]
 
+    print('doing some calcs')
     # Weight psl data by coslat to account for grid cell area decreasing with latitude
     weights = np.cos(np.radians(trend["lat"].values))
     weights_2d = weights[:, np.newaxis]
@@ -392,8 +402,8 @@ def project_onto_regression(trend_raw, regression_map, trend_var, mode, e, m, pe
     output_residual = '/gws/nopw/j04/extant/users/slbennie/projection_indicies/NAtlantic_forced_trends/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_residual_'+period+'.nc'
 
     #outputting .nc files for plotting
-    #projection.to_netcdf(output_projection)
-    #residual.to_netcdf(output_residual)
+    projection.to_netcdf(output_projection)
+    residual.to_netcdf(output_residual)
 
     return projection, residual
 
