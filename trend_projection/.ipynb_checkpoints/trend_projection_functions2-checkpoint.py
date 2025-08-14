@@ -85,16 +85,20 @@ def open_cropNA_unitshPA(filename):
 
 def calculate_spatial_ensemble_mean(file_paths, output_file, variable):
     import xarray as xr
+    from dask.diagnostics import ProgressBar
     #Will be passing through an experiment's model's ensembles.
     #opens all the files given by filepath (basically opens all the ensembles)
-    ds = xr.open_mfdataset(file_paths, combine='nested', concat_dim='ensemble')
+    ds = xr.open_mfdataset(file_paths, combine='nested', concat_dim='ensemble', parallel=True, chunks={'ensemble':1})[variable]
 
-    #calculate the mean
-    mean = ds[variable].mean(dim='ensemble')
-
-    #save the ensemble mean to the a .nc file
-    mean.to_netcdf(output_file)
-    print('saved')
+    # Calculate the mean along the ensemble dimension
+    mean = ds.mean(dim='ensemble')    
+    
+    # Compute the result with a progress bar
+    print("Computing the ensemble mean...")
+    with ProgressBar():
+        mean.compute().to_netcdf(output_file)
+    
+    print(f'Ensemble mean saved to {output_file}')
 
     ds.close()
     return mean
@@ -261,13 +265,18 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
             if m == 'era5':
                 #creating the filenames for EOF and regression maps for both era5 data (slightly different filepath and naming)
                 output_regression_map = output.replace('anomalies_1940-2024', mode+'_regression_map_'+period)
-                output_EOF = output.replace('anomalies_1940-2024', period+'_EOF')
+                output_EOF = output.replace('anomalies_1940-2024', mode+'_EOF_'+period)
+
+                print(mode)
+                print(output_regression_map)
 
                 regression_map.name = 'regression_'+mode+'_djf'
                 regression_map.to_netcdf(output_regression_map)
 
                 EOF_pattern.name = 'EOF_'+mode+'_djf'
                 EOF_pattern.to_netcdf(output_EOF)
+
+                print('Era5 done')
 
                 return 'era5 done'
             else:
