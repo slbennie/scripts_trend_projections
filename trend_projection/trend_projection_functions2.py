@@ -238,27 +238,34 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
             EOF_pattern = solver.eofs(neofs=mode_number+1).sel(mode=mode_number)
 
             #Finding the PC and then normalising (could just keep pcscaling=1 as PC is normalised)
-            pc = solver.pcs(npcs=mode_number+1, pcscaling=1).sel(mode=mode_number)
+            #pc = solver.pcs(npcs=mode_number+1, pcscaling=1).sel(mode=mode_number)
             #pc = (pc - pc.mean()) / pc.std()
 
             #calculating the regression map by regressing the psl anomalies onto the pc
-            regression_map = (psl_stacked * pc).mean(dim='time')
+            #regression_map = (psl_stacked * pc).mean(dim='time')
 
             # Sign convention correction via spot check (will change for different models)
             #ensures Icelandic Low is negative and EA main centre is also negative.
             if mode == 'NAO':
 
-                if regression_map.sel(lat=65, lon=-30, method='nearest') > 0 and \
-                   regression_map.sel(lat=40, lon=-30, method='nearest') < 0:
-                    regression_map *= -1
-                    pc *= -1
+                #if regression_map.sel(lat=65, lon=-30, method='nearest') > 0 and \
+                #   regression_map.sel(lat=40, lon=-30, method='nearest') < 0:
+                #    regression_map *= -1
+                #    pc *= -1
+                if EOF_pattern.sel(lat=65, lon=-30, method='nearest') > 0 and \
+                    EOF_pattern.sel(lat=40, lon=-30, method='nearest') < 0:
+                    EOF_pattern *= -1
 
             elif mode == 'EA':
 
-                if regression_map.sel(lat=55, lon=-20, method='nearest') > 0 and \
-                   regression_map.sel(lat=25, lon=-20, method='nearest') < 0:
-                    regression_map *= -1
-                    pc *= -1
+                #if regression_map.sel(lat=55, lon=-20, method='nearest') > 0 and \
+                #   regression_map.sel(lat=25, lon=-20, method='nearest') < 0:
+                #    regression_map *= -1
+                #    pc *= -1
+
+                if EOF_pattern.sel(lat=55, lon=-20, method='nearest') > 0 and \
+                   EOF_pattern.sel(lat=25, lon=-20, method='nearest') < 0:
+                   EOF_pattern *= -1
 
             output = anomalies[i].replace('/psl_anomalies', '/regression_patterns/'+mode)
 
@@ -270,8 +277,8 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
                 print(mode)
                 print(output_regression_map)
 
-                regression_map.name = 'regression_'+mode+'_djf'
-                regression_map.to_netcdf(output_regression_map)
+                #regression_map.name = 'regression_'+mode+'_djf'
+                #regression_map.to_netcdf(output_regression_map)
 
                 EOF_pattern.name = 'EOF_'+mode+'_djf'
                 EOF_pattern.to_netcdf(output_EOF)
@@ -281,15 +288,15 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
                 return 'era5 done'
             else:
                 output_regression_map = output.replace('anomaly', mode+'_regression_map_'+period)
-                output_EOF = output.replace('anomaly', period+'_EOF')
+                output_EOF = output.replace('anomaly', mode+'_EOF_'+period)
 
-                regression_map.name = 'regression_'+mode+'_djf'
-                regression_map.to_netcdf(output_regression_map)
+                #regression_map.name = 'regression_'+mode+'_djf'
+                #regression_map.to_netcdf(output_regression_map)
 
                 EOF_pattern.name = 'EOF_'+mode+'_djf'
                 EOF_pattern.to_netcdf(output_EOF)
                 
-                ens_files_reg.append(output_regression_map)
+                #ens_files_reg.append(output_regression_map)
                 ens_files_EOF.append(output_EOF)
                 #print(output_regression_map)
 
@@ -297,21 +304,21 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
         print('calculating the mean regression map')
 
         #opening each ensemble file and storing in one multi-dim array with new dimension ensemble as well as prev lat, lons.
-        ds_reg = xr.open_mfdataset(ens_files_reg, concat_dim='ensemble', combine='nested')
+        #ds_reg = xr.open_mfdataset(ens_files_reg, concat_dim='ensemble', combine='nested')
         ds_EOF = xr.open_mfdataset(ens_files_EOF, concat_dim='ensemble', combine='nested')
 
         #extracting the nao regression data
-        regression_pattern = ds_reg[f'regression_{mode}_djf']
+        #regression_pattern = ds_reg[f'regression_{mode}_djf']
         EOF_pattern = ds_EOF[f'EOF_{mode}_djf']
 
         #extracting the max and min from the ensemble spread
-        mean_regression = regression_pattern.mean(dim='ensemble')
+        #mean_regression = regression_pattern.mean(dim='ensemble')
         mean_EOF = EOF_pattern.mean(dim='ensemble')
 
         output_regression_map = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_regression_map_'+period+'.nc'
         output_EOF = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_EOF_pattern_'+period+'.nc'
 
-        mean_regression.to_netcdf(output_regression_map)
+        #mean_regression.to_netcdf(output_regression_map)
         mean_EOF.to_netcdf(output_EOF)
 
 
