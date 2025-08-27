@@ -361,7 +361,7 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
         EOF_pattern = solver.eofs(neofs=2).sel(mode=([0,1]))
 
         # 1. Get the first two PCs (time series of each mode)
-        pcs = solver.pcs(npcs=2, pcscaling=1)  # shape (time, mode)
+        pcs = solver.pcs(npcs=2, pcscaling=0)  # shape (time, mode)
 
         # 2. Compute their correlation / covariance
         pc_corr = np.corrcoef(pcs[:, 0], pcs[:, 1])[0, 1]
@@ -379,7 +379,7 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
             print("⚠️ Warning: EOF1 and EOF2 are not orthogonal within tolerance!")
 
         
-        output_EOF = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/concatenating/psl_mon_'+e+'_'+m+'_DJF_EOF_pattern_concat_'+period+'3.nc'
+        output_EOF = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/concatenating/psl_mon_'+e+'_'+m+'_DJF_EOF_pattern_concat_'+period+'4.nc'
         EOF_pattern.to_netcdf(output_EOF)
 
     return EOF_pattern
