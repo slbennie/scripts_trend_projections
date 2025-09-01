@@ -355,8 +355,8 @@ def calculate_regression_map(anomalies, mode, e, m, period, era5=False, individu
                 pc *= -1        
 
         #setting up output files paths for the projection and the residual
-        output_regression_map = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_regression_map_concat_'+period+'.nc'
-        output_EOF = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_EOF_pattern_concat_'+period+'.nc'
+        output_regression_map = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_regression_map_concat_'+period+'2.nc'
+        output_EOF = '/gws/nopw/j04/extant/users/slbennie/regression_patterns/'+mode+'/'+e+'/'+m+'/psl_mon_'+e+'_'+m+'_DJF_'+mode+'_EOF_pattern_concat_'+period+'2.nc'
 
         regression_map.name = 'regression_'+mode+'_djf'
         regression_map.to_netcdf(output_regression_map)
@@ -391,7 +391,7 @@ def project_onto_regression(trend_raw, regression_map, trend_var, mode, e, m, pe
 
     # weight psl (or another variable) anomalies by area of each gridcell
     weighted_trend = trend * weights_2d
-    weighted_regression = regression_map * weights_2d
+    weighted_regression = regression_map# * weights_2d
 
     # flatten both of the fields so that they are both 1D
     trend_flat = weighted_trend.stack(spatial=('lat','lon'))
